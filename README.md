@@ -9,4 +9,4 @@
 [![LINKEDIN](https://img.shields.io/badge/Linkedin-black?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vitormalencar) [![GMAIL](https://img.shields.io/badge/Gmail-black?style=for-the-badge&logo=gmail)](sandrotome.jr@gmail.com)
 
 
-#### ⚠⚠⚠ Repositório em contrução... ⚠⚠⚠
+#### ⚠⚠⚠ Repositório em construção... ⚠⚠⚠
