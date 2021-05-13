@@ -1,10 +1,10 @@
 # Olá, eu sou o Sandro 💡
 
-- 📘 Atualmente sou estudante no bootcamp de desenvolvimento web fullstack da Labenu desde de nov. 2020 onde tive meu primeiro contato com programação.
+- 📘 Programador formado no bootcamp de desenvolvimento web fullstack da Labenu entre novembro de 2020 e maio de 2021, onde tive meu primeiro contato com programação.
 
-- 💻 **Procuro uma primeira oportunidade como Desenvolvedor Jr em front-end ou mobile.**
+- 💻 **Busco uma primeira oportunidade como Desenvolvedor Jr em front-end ou mobile.**
 
-- 📈 Aqui você vai poder ver minha evolução como desenvolvedor e os meus projetos preferidos feitos durante o bootcamp e outros cursos.
+- 📈 Aqui você vai poder ver minha evolução como desenvolvedor e alguns dos meus projetos feitos durante o bootcamp e fora dele.
 
 [![LINKEDIN](https://img.shields.io/badge/Linkedin-black?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vitormalencar) [![GMAIL](https://img.shields.io/badge/Gmail-black?style=for-the-badge&logo=gmail)](sandrotome.jr@gmail.com)
 
