@@ -2,7 +2,9 @@
 
 - 📘 Programador formado no bootcamp de desenvolvimento web fullstack da Labenu entre novembro de 2020 e maio de 2021, onde tive meu primeiro contato com programação.
 
-- 💻 **Busco uma primeira oportunidade como Desenvolvedor Jr em front-end ou mobile.**
+- 📘 Estudante de Análise e Desenvolvimento de sistemas.
+
+- 💻 **Busco uma primeira oportunidade no mercado.**
 
 - 📈 Aqui você vai poder ver minha evolução como desenvolvedor e alguns dos meus projetos feitos durante o bootcamp e fora dele.
 
